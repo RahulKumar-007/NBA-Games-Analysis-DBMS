@@ -2,7 +2,7 @@
 
 ## 1. Introduction
 
-The NBA Database is designed to store and manage data related to the National Basketball Association (NBA). It includes information about teams, players, games, and rankings. The database aims to provide a comprehensive solution for storing and analyzing NBA data.
+The NBA Database is designed to store and manage data related to the National Basketball Association (NBA). It includes information about teams, players, games, and rankings. The database aims to provide a comprehensive solution for storing and analyzing NBA data. the Link to Dataset is [Here](https://www.kaggle.com/datasets/nathanlauga/nba-games)
 
 ## 2. Scope
 
